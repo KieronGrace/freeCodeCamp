@@ -1,2 +1,2 @@
 # freeCodeCamp
-This project is a reactive webpage focused on demonstrating the responsive sizing of images and text by use of CSS.
+These files are all of my code relating to the completion of the FreeCodeCamp Responsive Web Design Certificate
